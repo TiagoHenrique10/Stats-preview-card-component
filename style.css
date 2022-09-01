@@ -51,8 +51,9 @@ body {
 h1 {
     width: 100%;
 }
+
 .titulo span {
-    color: rgba(31, 27, 27, 0.836);
+    color: rgb(57 230 146 / 84%);
     font-weight: 900;
 }
 
